@@ -18,4 +18,5 @@ Dieses Projekt zeigt eine interaktive Kartenanimation, bei der beim Klicken auf 
 
 1. Klone dieses Repository auf deinen lokalen Computer:
 
+   ```bash
    git clone https://github.com/AkinKale1999/ElementsBecomeBiggerOnclick.git
